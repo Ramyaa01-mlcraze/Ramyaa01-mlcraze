@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **Ramyaa01-mlcraze/Ramyaa01-mlcraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif" width="100"/>
+</div>
